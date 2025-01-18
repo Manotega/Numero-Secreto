@@ -23,7 +23,7 @@ while (chute != numeroSecreto) {
 let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
 alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} em ${tentativas} ${palavraTentativa}!`);
 // if (tentativas == 1) {
-//     alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} em ${tentativas} tentativa!`)
+//     alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} em  ${tentativas} tentativa!`)
 // } else {
-//     alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} em ${tentativas} tentativas!`)
+//     alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} em  ${tentativas} tentativas!`)
 // }
